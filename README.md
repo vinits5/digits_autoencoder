@@ -12,20 +12,19 @@ Test the network:
 *python test.py idx*
 idx: index of image in dataset to be used to test the network.
 
-### Results:
-
-![](https://github.com/vinits5/digits_autoencoder/blob/master/results/one.png)
-![](https://github.com/vinits5/digits_autoencoder/blob/master/results/two.png)
-![](https://github.com/vinits5/digits_autoencoder/blob/master/results/three.png)
-![](https://github.com/vinits5/digits_autoencoder/blob/master/results/four.png)
-![](https://github.com/vinits5/digits_autoencoder/blob/master/results/five.png)
-![](https://github.com/vinits5/digits_autoencoder/blob/master/results/six.png)
-![](https://github.com/vinits5/digits_autoencoder/blob/master/results/seven.png)
-![](https://github.com/vinits5/digits_autoencoder/blob/master/results/eight.png)
-![](https://github.com/vinits5/digits_autoencoder/blob/master/results/nine.png)
-<img src="https://github.com/vinits5/digits_autoencoder/blob/master/results/zero.png" width="460" height="250">
-
 ### Test Results:
 <p align="center">
-  <img src="https://github.com/vinits5/digits_autoencoder/blob/master/results/result.gif" width="800" height="400" title="Predicted Digits by Autoencoder">
+  <img src="https://github.com/vinits5/digits_autoencoder/blob/master/results/result.gif" width="800" height="600" title="Predicted Digits by Autoencoder">
 </p>
+
+### Results:
+<img src="https://github.com/vinits5/digits_autoencoder/blob/master/results/zero.png" width="460" height="250">
+<img src="https://github.com/vinits5/digits_autoencoder/blob/master/results/one.png" width="460" height="250">
+<img src="https://github.com/vinits5/digits_autoencoder/blob/master/results/two.png" width="460" height="250">
+<img src="https://github.com/vinits5/digits_autoencoder/blob/master/results/three.png" width="460" height="250">
+<img src="https://github.com/vinits5/digits_autoencoder/blob/master/results/four.png" width="460" height="250">
+<img src="https://github.com/vinits5/digits_autoencoder/blob/master/results/five.png" width="460" height="250">
+<img src="https://github.com/vinits5/digits_autoencoder/blob/master/results/six.png" width="460" height="250">
+<img src="https://github.com/vinits5/digits_autoencoder/blob/master/results/seven.png" width="460" height="250">
+<img src="https://github.com/vinits5/digits_autoencoder/blob/master/results/eight.png" width="460" height="250">
+<img src="https://github.com/vinits5/digits_autoencoder/blob/master/results/nine.png" width="460" height="250">
