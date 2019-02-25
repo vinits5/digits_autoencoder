@@ -14,7 +14,7 @@ idx: index of image in dataset to be used to test the network.
 
 ### Results:
 
-![](https://github.com/vinits5/digits_autoencoder/blob/master/results/zero.png)
+![](https://github.com/vinits5/digits_autoencoder/blob/master/results/zero.png {width=460px height=250px})
 ![](https://github.com/vinits5/digits_autoencoder/blob/master/results/one.png)
 ![](https://github.com/vinits5/digits_autoencoder/blob/master/results/two.png)
 ![](https://github.com/vinits5/digits_autoencoder/blob/master/results/three.png)
